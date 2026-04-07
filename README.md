@@ -10,7 +10,7 @@ The model utilizes a Multi-Layer Perceptron (MLP) architecture and achieves appr
 
 The following visualization shows the model's predictions on a random batch from the test set. Green labels indicate correct classifications, while red labels indicate errors:
 
-`test_images/results_on_test_dataset.png`
+![Model Predictions](test_images/results_on_test_dataset.png)
 
 ---
 
